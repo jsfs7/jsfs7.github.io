@@ -1,0 +1,15 @@
+header {color: black;
+  background-color: lavender;
+  text-align:left;
+  font-size: 20;
+  display: grid;}
+width: 125px;
+height: 600px;
+color: blue;}
+body {background-color: gray;
+image-orientation: centered;}
+nav {background-color: lavender;}
+p {text-align: center;
+background-color: white;}
+footer {text-align: center;
+background-color: lavender;}

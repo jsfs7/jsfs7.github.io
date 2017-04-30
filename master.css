@@ -1,0 +1,27 @@
+html {
+  background-color: purple;
+}
+header {
+  background-color: pink;
+  width: 500px;
+  height: 100px;
+  display:inline-block;
+  font-size: 18px;
+  text-align: center;
+}
+body
+{
+  text-align: center;
+}
+.center {
+  background-color: pink;
+  width: 500px;
+  height: 40px;
+  display:inline-block;
+  font-size: 16px;
+  text-align: center
+}
+nav {
+  text-align:;
+
+}
